@@ -1,0 +1,14 @@
+C:\Users\varga\OneDrive\Escritorio\uam_c#2\ejercicio5_expo\bin\Debug\net8.0\ejercicio5_expo.exe
+C:\Users\varga\OneDrive\Escritorio\uam_c#2\ejercicio5_expo\bin\Debug\net8.0\ejercicio5_expo.deps.json
+C:\Users\varga\OneDrive\Escritorio\uam_c#2\ejercicio5_expo\bin\Debug\net8.0\ejercicio5_expo.runtimeconfig.json
+C:\Users\varga\OneDrive\Escritorio\uam_c#2\ejercicio5_expo\bin\Debug\net8.0\ejercicio5_expo.dll
+C:\Users\varga\OneDrive\Escritorio\uam_c#2\ejercicio5_expo\bin\Debug\net8.0\ejercicio5_expo.pdb
+C:\Users\varga\OneDrive\Escritorio\uam_c#2\ejercicio5_expo\obj\Debug\net8.0\ejercicio5_expo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varga\OneDrive\Escritorio\uam_c#2\ejercicio5_expo\obj\Debug\net8.0\ejercicio5_expo.AssemblyInfoInputs.cache
+C:\Users\varga\OneDrive\Escritorio\uam_c#2\ejercicio5_expo\obj\Debug\net8.0\ejercicio5_expo.AssemblyInfo.cs
+C:\Users\varga\OneDrive\Escritorio\uam_c#2\ejercicio5_expo\obj\Debug\net8.0\ejercicio5_expo.csproj.CoreCompileInputs.cache
+C:\Users\varga\OneDrive\Escritorio\uam_c#2\ejercicio5_expo\obj\Debug\net8.0\ejercicio5_expo.dll
+C:\Users\varga\OneDrive\Escritorio\uam_c#2\ejercicio5_expo\obj\Debug\net8.0\refint\ejercicio5_expo.dll
+C:\Users\varga\OneDrive\Escritorio\uam_c#2\ejercicio5_expo\obj\Debug\net8.0\ejercicio5_expo.pdb
+C:\Users\varga\OneDrive\Escritorio\uam_c#2\ejercicio5_expo\obj\Debug\net8.0\ejercicio5_expo.genruntimeconfig.cache
+C:\Users\varga\OneDrive\Escritorio\uam_c#2\ejercicio5_expo\obj\Debug\net8.0\ref\ejercicio5_expo.dll
