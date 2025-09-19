@@ -1,0 +1,15 @@
+C:\Users\norao\Nora\CS\valores\bin\Debug\net9.0\valores.exe
+C:\Users\norao\Nora\CS\valores\bin\Debug\net9.0\valores.deps.json
+C:\Users\norao\Nora\CS\valores\bin\Debug\net9.0\valores.runtimeconfig.json
+C:\Users\norao\Nora\CS\valores\bin\Debug\net9.0\valores.dll
+C:\Users\norao\Nora\CS\valores\bin\Debug\net9.0\valores.pdb
+C:\Users\norao\Nora\CS\valores\obj\Debug\net9.0\valores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\norao\Nora\CS\valores\obj\Debug\net9.0\valores.AssemblyInfoInputs.cache
+C:\Users\norao\Nora\CS\valores\obj\Debug\net9.0\valores.AssemblyInfo.cs
+C:\Users\norao\Nora\CS\valores\obj\Debug\net9.0\valores.csproj.CoreCompileInputs.cache
+C:\Users\norao\Nora\CS\valores\obj\Debug\net9.0\valores.sourcelink.json
+C:\Users\norao\Nora\CS\valores\obj\Debug\net9.0\valores.dll
+C:\Users\norao\Nora\CS\valores\obj\Debug\net9.0\refint\valores.dll
+C:\Users\norao\Nora\CS\valores\obj\Debug\net9.0\valores.pdb
+C:\Users\norao\Nora\CS\valores\obj\Debug\net9.0\valores.genruntimeconfig.cache
+C:\Users\norao\Nora\CS\valores\obj\Debug\net9.0\ref\valores.dll

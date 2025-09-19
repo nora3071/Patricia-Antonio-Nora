@@ -1,0 +1,15 @@
+C:\Users\norao\Nora\CS\trianguloA\bin\Debug\net9.0\trianguloA.exe
+C:\Users\norao\Nora\CS\trianguloA\bin\Debug\net9.0\trianguloA.deps.json
+C:\Users\norao\Nora\CS\trianguloA\bin\Debug\net9.0\trianguloA.runtimeconfig.json
+C:\Users\norao\Nora\CS\trianguloA\bin\Debug\net9.0\trianguloA.dll
+C:\Users\norao\Nora\CS\trianguloA\bin\Debug\net9.0\trianguloA.pdb
+C:\Users\norao\Nora\CS\trianguloA\obj\Debug\net9.0\trianguloA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\norao\Nora\CS\trianguloA\obj\Debug\net9.0\trianguloA.AssemblyInfoInputs.cache
+C:\Users\norao\Nora\CS\trianguloA\obj\Debug\net9.0\trianguloA.AssemblyInfo.cs
+C:\Users\norao\Nora\CS\trianguloA\obj\Debug\net9.0\trianguloA.csproj.CoreCompileInputs.cache
+C:\Users\norao\Nora\CS\trianguloA\obj\Debug\net9.0\trianguloA.sourcelink.json
+C:\Users\norao\Nora\CS\trianguloA\obj\Debug\net9.0\trianguloA.dll
+C:\Users\norao\Nora\CS\trianguloA\obj\Debug\net9.0\refint\trianguloA.dll
+C:\Users\norao\Nora\CS\trianguloA\obj\Debug\net9.0\trianguloA.pdb
+C:\Users\norao\Nora\CS\trianguloA\obj\Debug\net9.0\trianguloA.genruntimeconfig.cache
+C:\Users\norao\Nora\CS\trianguloA\obj\Debug\net9.0\ref\trianguloA.dll
