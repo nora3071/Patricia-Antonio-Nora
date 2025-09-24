@@ -1,0 +1,15 @@
+C:\Users\norao\Nora\CS\NumeroPar\bin\Debug\net9.0\NumeroPar.exe
+C:\Users\norao\Nora\CS\NumeroPar\bin\Debug\net9.0\NumeroPar.deps.json
+C:\Users\norao\Nora\CS\NumeroPar\bin\Debug\net9.0\NumeroPar.runtimeconfig.json
+C:\Users\norao\Nora\CS\NumeroPar\bin\Debug\net9.0\NumeroPar.dll
+C:\Users\norao\Nora\CS\NumeroPar\bin\Debug\net9.0\NumeroPar.pdb
+C:\Users\norao\Nora\CS\NumeroPar\obj\Debug\net9.0\NumeroPar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\norao\Nora\CS\NumeroPar\obj\Debug\net9.0\NumeroPar.AssemblyInfoInputs.cache
+C:\Users\norao\Nora\CS\NumeroPar\obj\Debug\net9.0\NumeroPar.AssemblyInfo.cs
+C:\Users\norao\Nora\CS\NumeroPar\obj\Debug\net9.0\NumeroPar.csproj.CoreCompileInputs.cache
+C:\Users\norao\Nora\CS\NumeroPar\obj\Debug\net9.0\NumeroPar.sourcelink.json
+C:\Users\norao\Nora\CS\NumeroPar\obj\Debug\net9.0\NumeroPar.dll
+C:\Users\norao\Nora\CS\NumeroPar\obj\Debug\net9.0\refint\NumeroPar.dll
+C:\Users\norao\Nora\CS\NumeroPar\obj\Debug\net9.0\NumeroPar.pdb
+C:\Users\norao\Nora\CS\NumeroPar\obj\Debug\net9.0\NumeroPar.genruntimeconfig.cache
+C:\Users\norao\Nora\CS\NumeroPar\obj\Debug\net9.0\ref\NumeroPar.dll
